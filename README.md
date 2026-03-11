@@ -1,2 +1,2 @@
-# Building-detection-Automation-
-Trying to detect the building footprint  from satellite Imageries.
+# METHODS AND TECHNIQUES-
+USEFUL RS AND GIS, Spatial Data Sciecne tool..
